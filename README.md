@@ -14,7 +14,7 @@
 
 <h1> Ideia do projeto </h1>
 
-###  "Se divertir unindo as tecnologias para completar o jogo..."
+###  "Se divertir unindo as tecnologias para completar o jogo..." se quiser jogar: https://jogodamemoria-eta.vercel.app/
   
    
 <h1> Por quê? </h1> 
@@ -22,8 +22,6 @@
 
 Email : marcospiantoni360@gmail.com
 Linkedin: www.linkedin.com/in/marcospiantoni
-
-<h1> Funcionalidades </h1>
 
 <h1> O projeto foi desenvolvido utilizando as seguintes tecnologias: </h1>
 
